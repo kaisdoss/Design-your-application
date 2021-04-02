@@ -1,0 +1,12 @@
+as user manager i need to :
+  1- Creat(add), read, update and delete a Product, 
+  So that i can manage easily all my Product
+  2- Give the consumer The receipt has:
+      -the number of each product he buy, the price for one piece and the total price for tha product.
+      -Total price for all what the client buy.
+
+
+As user client i need to :
+  - See what i buy and the price of each Product,
+  so that i can avoid any error from the manager 
+                  
